@@ -1,0 +1,9 @@
+.bcolor{
+    background-color:darkmagenta;
+}
+.border{
+    border: 12px double black;
+}
+.text{
+    font-color:white;
+}
